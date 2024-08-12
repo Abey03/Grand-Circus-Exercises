@@ -17,3 +17,4 @@ elif num % 2 != 0 and num > 60:
         print(num)
         print("Odd and greater than 60")
 
+
