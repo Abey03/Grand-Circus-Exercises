@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f128640d-00c5-452d-8eaf-1f6bbba37907" name="Changes" comment="Heating/Cooling Lab">
-      <change afterPath="$PROJECT_DIR$/apt_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson.py" afterDir="false" />
+    <list default="true" id="f128640d-00c5-452d-8eaf-1f6bbba37907" name="Changes" comment="Apartment Functions">
+      <change afterPath="$PROJECT_DIR$/grocery_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_activity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_database_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="heating_cooling" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723607932090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Apartment Functions">
+      <created>1724107710014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724107710014</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +107,33 @@
     <MESSAGE value="Lab 1 Number Analyzer" />
     <MESSAGE value="Powers Table (Loops)" />
     <MESSAGE value="Heating/Cooling Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heating/Cooling Lab" />
+    <MESSAGE value="Apartment Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apartment Functions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/student_database.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/student_database.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/student_database_2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/student_database_2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
